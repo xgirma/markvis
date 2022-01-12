@@ -46,7 +46,7 @@
     "d3-node": "^1.0.3",
     "eslint-config-geekplux": "^1.0.3",
     "jest": "^20.0.4",
-    "markdown-it": "^8.2.2",
+    "markdown-it": "^12.3.2",
     "xo": "^0.18.2"
   },
   "xo": {
